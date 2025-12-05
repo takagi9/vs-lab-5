@@ -1,0 +1,1 @@
+INSERT INTO institutes (name) VALUES ('Институт математики и информатики');
